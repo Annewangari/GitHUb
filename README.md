@@ -25,3 +25,38 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+
+
+# Github-App
+## Author
+Anne Wangari
+## Description
+- A web app for searching github users and repositories
+# Setup Instruction
+## First Method
+1. Go to github and create a new repository ie https://github.com/Annewangari/GitHUb
+2. In the terminal Navigate to the directory you want the project to reside in e.g (cd-/Desktop)
+3. use the ng new Quotes to create the angular files.
+4. cd Quotes and the open the project with a text editor eg visual studio
+# Behavior Driven Development
+| Behaviour | Input | Output |
+| ----------- | ----------- | ----------- |
+| Click your Github link | It takes your github|
+| Click your live link| Takes you to your website through the browser|
+| Enter a name to search for a repo|The user searched appears with all his/her github links displayed |
+# Technologies Used
+| Technology | Function |
+| ----------- | ----------- |
+| TypeScript |  A primary language for angular application that helps in creating angular ptojects|
+| Javascript | For functionality of the website|
+| Html | For the strucure and layout of web document |
+| Css| For styling and designing the website|
+| Bootsrap | For UI interface elements such as buttons and forms |
+# Contact
+- Incase of any questions ,feedback,comment or contribution, kindly reach me via.
+Email
+annekare3@gmail.com
+Phone Number
++254704326658
+# License
+- [MIT] Copyright (c) 2020 annewangari
